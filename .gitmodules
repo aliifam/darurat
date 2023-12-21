@@ -4,3 +4,6 @@
 [submodule "darurat-user-api"]
 	path = darurat-user-api
 	url = git@github.com:aliifam/darurat-user-api.git
+[submodule "darurat-admin-panel"]
+	path = darurat-admin-panel
+	url = git@github.com:aliifam/darurat-admin.git
