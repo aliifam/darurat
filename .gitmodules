@@ -13,3 +13,6 @@
 [submodule "darurat-chatbot-englih-model"]
 	path = darurat-chatbot-englih-model
 	url = git@github.com:safinakinanthi/First-Aid-Chatbot.git
+[submodule "darurat-chatbot-indonesia-model"]
+	path = darurat-chatbot-indonesia-model
+	url = git@github.com:seouiaa/First-Aid-Indo.git
