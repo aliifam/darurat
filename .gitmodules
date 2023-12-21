@@ -10,3 +10,6 @@
 [submodule "darurat-chatbot"]
 	path = darurat-chatbot
 	url = git@github.com:aliifam/darchat-prod.git
+[submodule "darurat-chatbot-englih-model"]
+	path = darurat-chatbot-englih-model
+	url = git@github.com:safinakinanthi/First-Aid-Chatbot.git
