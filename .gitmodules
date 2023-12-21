@@ -1,3 +1,6 @@
 [submodule "darurat-android-app"]
 	path = darurat-android-app
 	url = git@github.com:Adranaut/DaruratIndonesianUrgentResponse.git
+[submodule "darurat-user-api"]
+	path = darurat-user-api
+	url = git@github.com:aliifam/darurat-user-api.git
