@@ -1,8 +1,8 @@
 # Darurat : Indonesian Urgent Response
 
-main repository for darurat capstone project group CH2-PS033 Bangkit Academy 2023 batch 2
+Main repository of Darurat for capstone project group CH2-PS033 Bangkit Academy 2023 batch 2
 
-Team:
+Team Members:
 - Naufal Tsaqif Arkan (C120BSY4167)
 - Aliif Arief Maulana (C008BSY3696)
 - Latifah Anggraeni (A120BSX2751)
