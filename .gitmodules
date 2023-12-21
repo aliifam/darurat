@@ -7,3 +7,6 @@
 [submodule "darurat-admin-panel"]
 	path = darurat-admin-panel
 	url = git@github.com:aliifam/darurat-admin.git
+[submodule "darurat-chatbot"]
+	path = darurat-chatbot
+	url = git@github.com:aliifam/darchat-prod.git
